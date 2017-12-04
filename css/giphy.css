@@ -1,0 +1,16 @@
+body { /* Visual */
+	background: lightblue;
+  
+}
+
+button,
+div,
+form,
+input{
+	margin:10px;
+}
+
+.gDiv {
+	margin:10px;
+	float:left;
+}
